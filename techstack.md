@@ -44,7 +44,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [waleed-durrani/valet-](https://github.com/waleed-durrani/valet-)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|12/14/23 <br/>Report generated|
+|27<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -186,7 +186,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (12)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (13)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/1778/default_90cb8b66e85ae5b95928b10bb076ab6a27c7e151.png'/> Packagist (9)
 
@@ -203,11 +203,12 @@ Full tech stack [here](/techstack.md)
 |[symfony/thanks](https://packagist.org/symfony/thanks)|v1.1.0|10/21/18|waleed-durrani |N/A|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (4)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[cross-env](https://www.npmjs.com/cross-env)|v5.1|10/21/18|waleed-durrani |MIT|N/A|
+|[laravel-mix](https://www.npmjs.com/laravel-mix)|v2.0|10/21/18|waleed-durrani |MIT|N/A|
 |[popper.js](https://www.npmjs.com/popper.js)|v1.12|10/21/18|waleed-durrani |MIT|N/A|
 |[vue](https://www.npmjs.com/vue)|v2.5.7|10/21/18|waleed-durrani |MIT|N/A|
 
